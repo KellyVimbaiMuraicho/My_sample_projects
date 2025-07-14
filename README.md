@@ -1,2 +1,1 @@
-# My_sample_projects
-This is my first repository.
+Hello world! I'm using Git!
